@@ -96819,7 +96819,7 @@
 0.0.0.0 zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl
 
 
-0.0.0.0 finance.yahoo.com 
+finance.yahoo.com 
 #@ <<<<<<<< hostsplus + hostsplus-cert => hosts
 
 
